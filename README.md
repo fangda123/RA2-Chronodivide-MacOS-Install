@@ -8,4 +8,22 @@ The RA2 ChronoDivide Installer is a customized app designed for smooth, lag-free
 git clone https://github.com/fangda123/RA2-Chronodivide-MacOS-Install.git && cd RA2-Chronodivide-MacOS-Install && cat RA2\ MacOS\ DMG\!\!.zip.00* > RA2.zip && unzip RA2.zip && rm -f RA2\ MacOS\ DMG\!\!.zip.00* && rm -f RA2.zip && cd RA2\ MacOS\ DMG\!\! && open RA2.dmg
 ```
 
-* [X]  Enjoy !!
+![Screenshot25671030at025142.png](assets/Screenshot 2567-10-30 at 02.51.42.png)
+
+#### Move RA2 to Application Folder
+
+![Screenshot25671030at025030.png](assets/Screenshot 2567-10-30 at 02.50.30.png)
+
+#### Click Download
+
+![Screenshot25671030at025439.png](assets/Screenshot 2567-10-30 at 02.54.39.png)
+
+#### Wait loading !!
+
+![Screenshot25671030at025457.png](assets/Screenshot 2567-10-30 at 02.54.57.png)
+
+#### Play game
+
+* [X]  Enjoy
+
+#### Thank you, ChronoDivide (https://chronodivide.com), for creating a community platform and developing a space where we can come together and have fun. Credit to ChronoDivide!`
