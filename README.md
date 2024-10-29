@@ -1,6 +1,3 @@
-![Screenshot25671030at025511.png](assets/Screenshot 2567-10-30 at 02.55.11.png)
-![Screenshot25671030at025457.png](assets/Screenshot 2567-10-30 at 02.54.57.png)
-
 # RA2-Chronodivide-MacOS-Install
 
 The RA2 ChronoDivide Installer is a customized app designed for smooth, lag-free gameplay across macOS platforms. Built with Electron.js, this installer leverages direct CPU and GPU access, providing superior performance over web-based play. It minimizes issues like stuttering, slowness, and lag, even with high object counts or large teams. With Webview integration, ChronoDivide runs seamlessly, offering the same fast and responsive experience across operating systems. Perfect for Red Alert 2 fans, this installer allows players to enjoy ChronoDivide without browser limitations or performance drops. Download and experience RA2 ChronoDivide optimized for your system!
