@@ -4,6 +4,8 @@ The RA2 ChronoDivide Installer is a customized app designed for smooth, lag-free
 
 ## Install Red Alert 2 on MacOS
 
+### Open Terminal and copy command paste and enter !!
+
 ```
 git clone https://github.com/fangda123/RA2-Chronodivide-MacOS-Install.git && cd RA2-Chronodivide-MacOS-Install && cat RA2\ MacOS\ DMG\!\!.zip.00* > RA2.zip && unzip RA2.zip && rm -f RA2\ MacOS\ DMG\!\!.zip.00* && rm -f RA2.zip && cd RA2\ MacOS\ DMG\!\! && open RA2.dmg
 ```
